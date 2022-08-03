@@ -1,6 +1,6 @@
 {
 	"data": [{
-		"adstatus": "0",
+		"adstatus": "1",
 		"admob_adstatus": "0",
 		"ADMOB_APPID": "",
 		"ADMOB_APPOPEN": "ca-app-pub-3940256099942544/3419835294",
@@ -15,7 +15,7 @@
 		"IRONKEY": "154fe9201",
 		"yodo_adstatus": "0",
 		"YODOKEY": "6SLxNIYRFK",
-		"custom_adstatus": "0",
+		"custom_adstatus": "1",
 		"inter_count": "0",
 		"native_count": "0",
 		"banner_count": "0",
@@ -23,7 +23,7 @@
 		"app_accountLink": "https://play.google.com/store/apps/developer?id=Niches+Apps",
 		"app_Backad": "yes",
 		"screen1": "0",
-		"screen2": "0",
+		"screen2": "1",
 		"screen3": "0",
 		"exitscreen": "1",
 		"exitdialog": "1",
