@@ -28,7 +28,7 @@
 		"exitscreen": "1",
 		"exitdialog": "1",
 		"privacyalltime": "1",
-		"needinternet": "1",
+		"needinternet": "0",
 		"app_dialogBeforeAdShow": "1",
 		"vpn": "0",
 		"data_access": "0",
