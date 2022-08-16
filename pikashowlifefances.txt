@@ -1,6 +1,6 @@
 {
 	"data": [{
-		"adstatus": "0",
+		"adstatus": "1",
 		"admob_adstatus": "0",
 		"ADMOB_APPID": "",
 		"ADMOB_APPOPEN": "ca-app-pub-3940256099942544/3419835294",
@@ -13,9 +13,9 @@
 		"FACEBOOK_NB": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"iron_adstatus": "0",
 		"IRONKEY": "154fe9201",
-		"yodo_adstatus": "0",
+		"yodo_adstatus": "1",
 		"YODOKEY": "w2nkbiCAaC",
-		"custom_adstatus": "1",
+		"custom_adstatus": "0",
 		"inter_count": "0",
 		"native_count": "0",
 		"banner_count": "0",
