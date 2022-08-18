@@ -23,7 +23,7 @@
 		"app_accountLink": "https://play.google.com/store/apps/developer?id=Niches+Apps",
 		"app_Backad": "yes",
 		"screen1": "0",
-		"screen2": "0",
+		"screen2": "2",
 		"screen3": "0",
 		"exitscreen": "1",
 		"exitdialog": "1",
