@@ -11,7 +11,7 @@
 		"FACEBOOK_I": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FACEBOOK_N": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FACEBOOK_NB": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"iron_adstatus": "0",
+		"iron_adstatus": "1",
 		"IRONKEY": "15ee04285",
 		"yodo_adstatus": "0",
 		"YODOKEY": "r0qx2f2cfQ",
