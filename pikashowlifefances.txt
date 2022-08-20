@@ -35,11 +35,11 @@
 		"base_url": "https://d2isj403unfbyl.cloudfront.net",
 		"carrier_id": "aft_vpn_test",
 		"config_country": "us",
-		"qureca": "https://gujjusupport.in/18-best-refer-and-earn-apps-in-india-may-2022-unlimited-loot-trick/",
+		"qureca": "https://gujjusupport.in/marvel-spider-man-remastered-download-free-pc/",
 		"force_qinter": "1",
 		"update_dialog": "1",
 		"update_linkurl": "aqt",
 		"customad_txt": "Play Games",
-		"customad_action": "https://gujjusupport.in/18-best-refer-and-earn-apps-in-india-may-2022-unlimited-loot-trick/"
+		"customad_action": "https://gujjusupport.in/marvel-spider-man-remastered-download-free-pc/"
 	}]
 }
