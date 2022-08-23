@@ -4,7 +4,7 @@
 		"admob_adstatus": "1",
 		"ADMOB_APPID": "",
 		"ADMOB_APPOPEN": "/229445249,22796693593/DWTag-DFPNew_RS95_1MinuteMeAadharLoanGuide_Infiycube_AppOpen_220822_InApp",
-		"ADMOB_I": "ca-app-pub-3940256099942544/1033173712",
+		"ADMOB_I": "/229445249,22796693593/DWTag-DFPNew_RS95_1MinuteMeAadharLoanGuide_Infiycube_Interstitial_220822_InApp",
 		"ADMOB_N": "/229445249,22796693593/DWTag-DFPNew_RS95_1MinuteMeAadharLoanGuide_Infiycube_Native_220822_InApp",
 		"ADMOB_B": "/229445249,22796693593/DWTag-DFPNew_RS95_1MinuteMeAadharLoanGuide_Infiycube_Banner_220822_InApp",
 		"fb_adstatus": "0",
