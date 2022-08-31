@@ -1,7 +1,7 @@
 {
 	"data": [{
-		"adstatus": "1",
-		"admob_adstatus": "1",
+		"adstatus": "0",
+		"admob_adstatus": "0",
 		"ADMOB_APPID": "",
 		"ADMOB_APPOPEN": "/229445249,22796693593/DWTag-DFPNew_RS95_SetCallerTuneSetRingtone_Infiycube_AppOpen_220822_InApp",
 		"ADMOB_I": "/229445249,22796693593/DWTag-DFPNew_RS95_SetCallerTuneSetRingtone_Infiycube_Interstitial_220822_InApp",
