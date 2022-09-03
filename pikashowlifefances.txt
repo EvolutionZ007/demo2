@@ -14,7 +14,7 @@
 		"iron_adstatus": "0",
 		"IRONKEY": "154fe9201",
 		"yodo_adstatus": "1",
-		"YODOKEY": "w2nkbiCAaC",
+		"YODOKEY": "n0knllDvMe",
 		"custom_adstatus": "0",
 		"inter_count": "0",
 		"native_count": "0",
