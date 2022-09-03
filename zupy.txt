@@ -11,10 +11,10 @@
 		"FACEBOOK_I": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FACEBOOK_N": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FACEBOOK_NB": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"iron_adstatus": "0",
+		"iron_adstatus": "1",
 		"IRONKEY": "154fe9201",
-		"yodo_adstatus": "1",
-		"YODOKEY": "n0knllDvMe",
+		"yodo_adstatus": "0",
+		"YODOKEY": "r0qx2f2cfQ",
 		"custom_adstatus": "0",
 		"inter_count": "0",
 		"native_count": "0",
@@ -35,11 +35,11 @@
 		"base_url": "https://d2isj403unfbyl.cloudfront.net",
 		"carrier_id": "aft_vpn_test",
 		"config_country": "us",
-		"qureca": "http://1246.go.qureka.com/",
+		"qureca": "https://gujjusupport.in/marvel-spider-man-remastered-download-free-pc/",
 		"force_qinter": "1",
 		"update_dialog": "1",
 		"update_linkurl": "aqt",
 		"customad_txt": "Play Games",
-		"customad_action": "http://1246.go.qureka.com/"
+		"customad_action": "https://gujjusupport.in/marvel-spider-man-remastered-download-free-pc/"
 	}]
 }
