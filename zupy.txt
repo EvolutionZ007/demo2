@@ -21,7 +21,7 @@
 		"base_url": "https://d2isj403unfbyl.cloudfront.net",
 		"carrier_id": "aft_vpn_test",
 		"config_country": "us",
-		"update_dialog": "1",
+		"update_dialog": "0",
 		"update_linkurl": "aqt"
 	}]
 }
