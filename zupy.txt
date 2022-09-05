@@ -16,7 +16,7 @@
 		"privacyalltime": "1",
 		"needinternet": "1",
 		"app_dialogBeforeAdShow": "1",
-		"vpn": "0",
+		"vpn": "1",
 		"data_access": "0",
 		"base_url": "https://d2isj403unfbyl.cloudfront.net",
 		"carrier_id": "aft_vpn_test",
