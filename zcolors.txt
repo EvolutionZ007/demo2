@@ -1,7 +1,7 @@
 {
 	"data": [{
-		"adstatus": "1",
-		"iron_adstatus": "1",
+		"adstatus": "0",
+		"iron_adstatus": "0",
 		"IRONKEY": "157380a31",
 		"yodo_adstatus": "0",
 		"YODOKEY": "n0knllDvMe",
