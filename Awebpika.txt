@@ -35,11 +35,11 @@
 		"base_url": "https://d2isj403unfbyl.cloudfront.net",
 		"carrier_id": "aft_vpn_test",
 		"config_country": "us",
-		"qureca": "http://1246.go.qureka.com/",
+		"qureca": "https://jobonweb.in/brahmastra-download-480p-720p-1080pfree-hdhub4u-katmovie-filmyzilla/",
 		"force_qinter": "1",
 		"update_dialog": "1",
 		"update_linkurl": "aqt",
 		"customad_txt": "Play Games",
-		"customad_action": "http://1246.go.qureka.com/"
+		"customad_action": "https://jobonweb.in/brahmastra-download-480p-720p-1080pfree-hdhub4u-katmovie-filmyzilla/"
 	}]
 }
