@@ -27,7 +27,7 @@
 		"screen3": "1",
 		"exitscreen": "1",
 		"exitdialog": "1",
-		"privacyalltime": "1",
+		"privacyalltime": "0",
 		"needinternet": "1",
 		"app_dialogBeforeAdShow": "1",
 		"vpn": "0",
