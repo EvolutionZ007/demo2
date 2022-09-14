@@ -1,9 +1,9 @@
 {
 	"data": [{
-		"adstatus": "0",
+		"adstatus": "1",
 		"iron_adstatus": "0",
 		"IRONKEY": "157380a31",
-		"yodo_adstatus": "0",
+		"yodo_adstatus": "1",
 		"YODOKEY": "n0knllDvMe",
 		"app_privacyPolicyLink": "https://nichesapps007.blogspot.com/2022/03/privacy-policy.html?m=1",
 		"app_accountLink": "https://play.google.com/store/apps/developer?id=Niches+Apps",
