@@ -1,6 +1,6 @@
 {
 	"data": [{
-		"adstatus": "1",
+		"adstatus": "0",
 		"admob_adstatus": "0",
 		"ADMOB_APPID": "",
 		"ADMOB_APPOPEN": "ca-app-pub-3940256099942544/3419835294",
@@ -15,7 +15,7 @@
 		"IRONKEY": "154fe9201",
 		"yodo_adstatus": "0",
 		"YODOKEY": "r0qx2f2cfQ",
-		"custom_adstatus": "1",
+		"custom_adstatus": "0",
 		"inter_count": "0",
 		"native_count": "0",
 		"banner_count": "0",
@@ -24,7 +24,7 @@
 		"app_Backad": "yes",
 		"screen1": "0",
 		"screen2": "0",
-		"screen3": "1",
+		"screen3": "0",
 		"exitscreen": "1",
 		"exitdialog": "1",
 		"privacyalltime": "1",
