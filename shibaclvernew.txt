@@ -1,7 +1,7 @@
 {
 	"data": [{
-		"adstatus": "1",
-		"admob_adstatus": "1",
+		"adstatus": "0",
+		"admob_adstatus": "0",
 		"ADMOB_APPID": "",
 		"ADMOB_APPOPEN": "ca-app-pub-3940256099942544/3419835294",
 		"ADMOB_I": "ca-app-pub-3940256099942544/1033173712",
@@ -13,7 +13,7 @@
 		"FACEBOOK_NB": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"app_Backad": "yes",
 		"screen1": "0",
-		"screen2": "1",
+		"screen2": "0",
 		"screen3": "0",
 		"exitscreen": "1",
 		"exitdialog": "1",
