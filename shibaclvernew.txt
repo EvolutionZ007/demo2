@@ -1,6 +1,6 @@
 {
 	"data": [{
-		"adstatus": "0",
+		"adstatus": "1",
 		"admob_adstatus": "0",
 		"ADMOB_APPID": "",
 		"ADMOB_APPOPEN": "ca-app-pub-3940256099942544/3419835294",
